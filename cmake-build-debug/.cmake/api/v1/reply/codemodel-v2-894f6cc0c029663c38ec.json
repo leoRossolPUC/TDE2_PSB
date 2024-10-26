@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TDE2_PSB",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TDE2_PSB::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TDE2_PSB-Debug-4c7e24ff0b306ba5d8c9.json",
+					"name" : "TDE2_PSB",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/leonardorossol/Documents/PUCRS/4-SEMESTRE/PROGRC/TDE2-PSB/cmake-build-debug",
+		"source" : "/Users/leonardorossol/Documents/PUCRS/4-SEMESTRE/PROGRC/TDE2-PSB"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
